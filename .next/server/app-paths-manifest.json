@@ -1,0 +1,5 @@
+{
+  "/api/ingest/route": "app/api/ingest/route.js",
+  "/page": "app/page.js",
+  "/api/bootstrap/route": "app/api/bootstrap/route.js"
+}
