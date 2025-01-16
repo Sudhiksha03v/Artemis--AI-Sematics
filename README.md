@@ -5,8 +5,6 @@ Built With
 - Next.js + tailwind
 - Node version 20 or higher
 
----
-
 ## Running the Sample App
 
 ### Want to move fast?
