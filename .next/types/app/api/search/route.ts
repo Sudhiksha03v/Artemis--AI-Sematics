@@ -1,4 +1,4 @@
-// File: D:\codevault\nox\src\app\api\search\route.ts
+// File: C:\Users\sudhi\OneDrive\Desktop\legaldocs-ai-semantics\src\app\api\search\route.ts
 import * as entry from '../../../../../src/app/api/search/route.js'
 import type { NextRequest } from 'next/server.js'
 

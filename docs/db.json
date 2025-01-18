@@ -116,6 +116,50 @@
       "date": "2008",
       "topic": "Student free speech within schools",
       "outcome": "Strengthened first Amendment protections"
+    },
+    {
+      "filename": "foundations_of_political_obligations.pdf",
+      "title": "Foundations of Political Obligations",
+      "author": "A. S. Bhagyashree Mallikarjun",
+      "topic": "Political Philosophy",
+      "themes": [
+        "Theories of Political Obligation",
+        "Consent and Authority",
+        "Moral vs. Legal Obligation",
+        "Civil Disobedience",
+        "Marxist Perspectives"
+      ],
+      "relevance": "Explores the foundational principles and contemporary applications of political obligations in democratic and authoritarian states."
+    },
+    {
+      "filename": "law_of_torts.pdf",
+      "title": "Law of Torts",
+      "author": "R. K. Bangia",
+      "topic": "Tort Law",
+      "themes": [
+        "Essentials of Torts",
+        "Negligence and Liability",
+        "Defamation and Nuisance",
+        "Strict and Absolute Liability",
+        "Remedies and Defenses"
+      ],
+      "relevance": "Provides a comprehensive understanding of tort law principles, key cases, and emerging issues like environmental and consumer torts."
+    },
+    {
+      "filename": "law_of_international_human_rights_protection.pdf",
+      "title": "The Law of International Human Rights Protection",
+      "author": "Oliver Dörr",
+      "topic": "International Human Rights Law",
+      "themes": [
+        "Foundations of Human Rights Law",
+        "International Treaties and Conventions",
+        "Regional Human Rights Systems",
+        "Human Rights and State Responsibility",
+        "Enforcement Mechanisms"
+      ],
+      "relevance": "Explores the legal frameworks, principles, and mechanisms for protecting human rights on an international scale."
     }
+    
+    
   ]
 }

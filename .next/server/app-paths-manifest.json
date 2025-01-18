@@ -1,5 +1,7 @@
 {
   "/page": "app/page.js",
   "/api/bootstrap/route": "app/api/bootstrap/route.js",
-  "/api/ingest/route": "app/api/ingest/route.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/ingest/route": "app/api/ingest/route.js",
+  "/api/search/route": "app/api/search/route.js"
 }

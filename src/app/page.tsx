@@ -63,6 +63,23 @@ const handleSearch = async (
 };
 
 const suggestedSearches = [
+  "Landmark judgments by the Indian Supreme Court",
+  "Cases related to the Fundamental Rights in India",
+  "How does Article 21 protect personal liberties in India?",
+  "Important Indian cases about religious freedom",
+  "Cases involving the Indian Penal Code and constitutional rights",
+  "What are the constitutional limitations of free speech in India?",
+  "Indian cases involving the right to privacy",
+  "Influential judgments in Indian constitutional law",
+  "Cases of judicial review in India",
+  "How does the Indian judiciary protect human rights?",
+  "What are the key human rights issues in Indian courts?",
+  "Landmark Indian cases related to women’s rights",
+  "Important Indian cases on equality and discrimination",
+  "Indian cases that shaped the protection of labor rights",
+  "Famous cases that impacted the right to property in India",
+  "How does the Indian legal system handle cases of communal violence?",
+  "What cases involved the interpretation of secularism in India?",
   "Cases about personal freedoms being violated",
   "Cases involving a US President",
   "Cases involving guns",
@@ -76,6 +93,7 @@ const suggestedSearches = [
   "What cases involved personal rights or congressional overreach?",
   "Cases where the judge expressed grave concern",
 ];
+
 
 export default function Home() {
   const [isBootstrapping, setIsBootstrapping] = useState(false);
